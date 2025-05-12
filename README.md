@@ -1,35 +1,36 @@
-𝐇𝐢, 𝐈'𝐦 𝐅𝐚𝐭𝐢𝐦𝐚 𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝
+# Hi, I'm Fatima Muhammad
 
-I am an aspiring 𝐁𝐥𝐮𝐞 𝐓𝐞𝐚𝐦 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐭, currently in college and working to gain hands-on experience in cybersecurity.  
-Focused on learning practical skills to start my career early.  
-𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐚𝐧 𝐞𝐧𝐭𝐫𝐲-𝐥𝐞𝐯𝐞𝐥 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐢𝐧 𝐜𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐭𝐨 𝐠𝐫𝐨𝐰 𝐢𝐧 𝐭𝐡𝐫𝐞𝐚𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧, 𝐒𝐎𝐂 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬.
+I am an aspiring Blue Team Cybersecurity Analyst, currently in college and working to gain hands-on experience in cybersecurity.
+Focused on learning practical skills to start my career early.
+Currently looking for an entry-level position in cybersecurity to grow in threat detection, SOC analysis, and security operations.
 
+# CERTIFICATIONS
 
-• 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
-- 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞  
-- 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞  
-- 𝐈𝐁𝐌 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞  
-- 𝐈𝐧𝐟𝐨𝐬𝐞𝐜 𝐏𝐲𝐭𝐡𝐨𝐧 𝐟𝐨𝐫 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲  
-- 𝐆𝐨𝐨𝐠𝐥𝐞 𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞  
-- 𝐈𝐁𝐌 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 𝐅𝐮𝐧𝐝𝐚𝐦𝐞𝐧𝐭𝐚𝐥𝐬 
+- Google Cybersecurity Professional Certificate
+- Microsoft Cybersecurity Analyst Certificate
+- IBM Cybersecurity Analyst Certificate
+- Infosec Python for Cybersecurity
+- Google IT Support Certificate
+- IBM Security Analyst Fundamentals
 
+# SKILLS & TOOLS
 
-• 𝐒𝐊𝐈𝐋𝐋𝐒 & 𝐓𝐎𝐎𝐋𝐒
-- 𝐏𝐲𝐭𝐡𝐨𝐧 (𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠 & 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧)  
-- 𝐋𝐢𝐧𝐮𝐱, 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠, 𝐁𝐚𝐬𝐡  
-- 𝐒𝐈𝐄𝐌 𝐛𝐚𝐬𝐢𝐜𝐬, 𝐋𝐨𝐠 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐓𝐡𝐫𝐞𝐚𝐭 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞  
-- 𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞, 𝐖𝐢𝐫𝐞𝐬𝐡𝐚𝐫𝐤, 𝐍𝐦𝐚𝐩
+- Python (security scripting & automation)
+- Linux, Networking, Bash
+- SIEM basics, Log analysis, Threat intelligence
+- TryHackMe, Wireshark, Nmap
 
+# PROJECTS
 
-• 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
-- 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐜𝐚𝐧𝐧𝐞𝐫 (𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬)  
-- 𝐋𝐨𝐠 𝐀𝐧𝐚𝐥𝐲𝐳𝐞𝐫 𝐟𝐨𝐫 𝐒𝐮𝐬𝐩𝐢𝐜𝐢𝐨𝐮𝐬 𝐄𝐯𝐞𝐧𝐭𝐬 (𝐮𝐩𝐜𝐨𝐦𝐢𝐧𝐠)  
-- 𝐓𝐫𝐲𝐇𝐚𝐜𝐤𝐌𝐞 𝐋𝐚𝐛 𝐑𝐞𝐩𝐨𝐫𝐭𝐬 (𝐜𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧)
-  
+- Vulnerability Scanner 
+- Encryption and Decryption GUI Message Tool
+- OSINT Passive Investigation Report
+- TryHackMe Lab Reports (coming soon)
 
-• 𝐋𝐄𝐓'𝐒 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
-- 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧: https://www.linkedin.com/in/fatima-muhammad-6b5084340/ 
-- 𝐄𝐦𝐚𝐢𝐥: fatimamuhammad.pk7@gmail.com
+# LET'S CONNECT
 
+- LinkedIn: https://www.linkedin.com/in/fatima-muhammad-6b5084340/
+- Email: fatimamuhammad.pk7@gmail.com
 
-"𝐀𝐥𝐰𝐚𝐲𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐚𝐥𝐰𝐚𝐲𝐬 𝐝𝐞𝐟𝐞𝐧𝐝𝐢𝐧𝐠."
+- "Always learning, always defending."
+
