@@ -119,14 +119,14 @@ Brief description of the project.
 <td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/verify/3M7OEV8NOAKG" target="_blank">
 <img src="assets/logos/nvidia.png" width="90"><br>
-<span style="color:#000000;"><b>NVIDIA Cybersecurity</b></span>
+<span style="color:#000000;"><b>NVIDIA Networking Certificate</b></span>
 </a>
 </td>
 
 <td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/verify/QRHGY9Z1O4F8" target="_blank">
 <img src="assets/logos/universityoflondon.png" width="120"><br>
-<span style="color:#000000;"><b>University of London Cybersecurity</b></span>
+<span style="color:#000000;"><b>University of London Cybersecurity Certificate</b></span>
 </a>
 </td>
 
