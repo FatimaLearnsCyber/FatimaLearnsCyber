@@ -74,97 +74,100 @@ Brief description of the project.
 
 ## Certifications
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
+<table>
+<tr>
 
-<div align="center">
+<td align="center" width="80">
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/6JZI33OD4O6U" target="_blank">
-<img src="assets/logos/google.png" width="80">
+<img src="assets/logos/google.png" width="90"><br>
+<span style="color:#000000;"><b>Google Cybersecurity Professional Certificate</b></span>
 </a>
-<br>
-Google Cybersecurity Professional Certificate
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/CRF6MW7ABNZY" target="_blank">
-<img src="assets/logos/googleitsupport.png" width="150">
+<img src="assets/logos/googleitsupport.png" width="140"><br>
+<span style="color:#000000;"><b>Google IT Support Professional Certificate</b></span>
 </a>
-<br>
-Google IT Support Professional Certificate
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/SEEU7567P8O3" target="_blank">
-<img src="assets/logos/googlecloud.png" width="80">
+<img src="assets/logos/googlecloud.png" width="90"><br>
+<span style="color:#000000;"><b>Google Cloud Cybersecurity Certificate</b></span>
 </a>
-<br>
-Google Cloud Cybersecurity Certificate
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/specialization/CXD27UFFV0MH" target="_blank">
-<img src="assets/logos/microsoft.png" width="80">
+<img src="assets/logos/microsoft.png" width="90"><br>
+<span style="color:#000000;"><b>Microsoft Cybersecurity Analyst</b></span>
 </a>
-<br>
-Microsoft Cybersecurity Analyst
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/1E85WQ6NA59X" target="_blank">
-<img src="assets/logos/ibm.png" width="80">
+<img src="assets/logos/ibm.png" width="90"><br>
+<span style="color:#000000;"><b>IBM Cybersecurity Analyst</b></span>
 </a>
-<br>
-IBM Cybersecurity Analyst
-</div>
+</td>
 
-<div align="center">
+</tr>
+
+<tr>
+
+<td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/verify/3M7OEV8NOAKG" target="_blank">
-<img src="assets/logos/nvidia.png" width="80">
+<img src="assets/logos/nvidia.png" width="90"><br>
+<span style="color:#000000;"><b>NVIDIA Cybersecurity</b></span>
 </a>
-<br>
-NVIDIA Cybersecurity
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="180">
 <a href="https://www.coursera.org/account/accomplishments/verify/QRHGY9Z1O4F8" target="_blank">
-<img src="assets/logos/universityoflondon.png" width="150">
+<img src="assets/logos/universityoflondon.png" width="120"><br>
+<span style="color:#000000;"><b>University of London Cybersecurity</b></span>
 </a>
-<br>
-University of London Cybersecurity
-</div>
+</td>
 
-</div>
+<td></td>
+<td></td>
+<td></td>
+
+</tr>
+</table>
 
 ---
 
 ## Forage Job Simulations
 
-<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
+<table>
+<tr>
 
-<div align="center">
+<td align="center" width="200">
 <a href="PASTE_PUBLIC_LINK_HERE" target="_blank">
-<img src="assets/logos/telstra.png" width="80">
+<img src="assets/logos/telstra.png" width="90"><br>
+<span style="color:#000000;"><b>Telstra Cybersecurity Job Simulation</b></span>
 </a>
-<br>
-Telstra Cybersecurity Job Simulation
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="200">
 <a href="PASTE_PUBLIC_LINK_HERE" target="_blank">
-<img src="assets/logos/tata.png" width="80">
+<img src="assets/logos/tata.png" width="90"><br>
+<span style="color:#000000;"><b>Tata Cybersecurity Analyst Simulation</b></span>
 </a>
-<br>
-Tata Cybersecurity Analyst Simulation
-</div>
+</td>
 
-<div align="center">
+<td align="center" width="200">
 <a href="PASTE_PUBLIC_LINK_HERE" target="_blank">
-<img src="assets/logos/mastercard.png" width="80">
+<img src="assets/logos/mastercard.png" width="90"><br>
+<span style="color:#000000;"><b>Mastercard Cybersecurity Simulation</b></span>
 </a>
-<br>
-Mastercard Cybersecurity Simulation
-</div>
+</td>
 
-</div>
+</tr>
+</table>
+
 
 ---
 
