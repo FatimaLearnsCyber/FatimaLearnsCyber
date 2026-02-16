@@ -85,7 +85,7 @@ Google Cybersecurity Professional Certificate
 </div>
 
 <div align="center">
-<a href="[PASTE_PUBLIC_CERT_LINK_HERE](https://coursera.org/share/0eb57f1c68b4c64daa482f2f269c2b68)" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/CRF6MW7ABNZY" target="_blank">
 <img src="assets/logos/googleitsupport.png" width="150">
 </a>
 <br>
@@ -93,7 +93,7 @@ Google IT Support Professional Certificate
 </div>
 
 <div align="center">
-<a href="[PASTE_PUBLIC_CERT_LINK_HERE](https://coursera.org/share/2f7ce6cfea0623b4c87bf424b4022381)" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/SEEU7567P8O3" target="_blank">
 <img src="assets/logos/googlecloud.png" width="80">
 </a>
 <br>
@@ -101,7 +101,7 @@ Google Cloud Cybersecurity Certificate
 </div>
 
 <div align="center">
-<a href="[PASTE_PUBLIC_CERT_LINK_HERE](https://coursera.org/share/05086042d9ab5411bb72ec6dac6fe323)" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/specialization/CXD27UFFV0MH" target="_blank">
 <img src="assets/logos/microsoft.png" width="80">
 </a>
 <br>
@@ -109,7 +109,7 @@ Microsoft Cybersecurity Analyst
 </div>
 
 <div align="center">
-<a href="[PASTE_PUBLIC_CERT_LINK_HERE](https://coursera.org/share/5d23ebe23944d73391bb99be66dfe4ab)" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/1E85WQ6NA59X" target="_blank">
 <img src="assets/logos/ibm.png" width="80">
 </a>
 <br>
@@ -117,7 +117,7 @@ IBM Cybersecurity Analyst
 </div>
 
 <div align="center">
-<a href="[PASTE_PUBLIC_CERT_LINK_HERE](https://coursera.org/share/599362e36d20ef916616d4c99a7c0cb6)" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/verify/3M7OEV8NOAKG" target="_blank">
 <img src="assets/logos/nvidia.png" width="80">
 </a>
 <br>
@@ -125,7 +125,7 @@ NVIDIA Cybersecurity
 </div>
 
 <div align="center">
-<a href="[PASTE_PUBLIC_CERT_LINK_HERE](https://coursera.org/share/99b2c8cbbaf1fd6b1cba0b2f1959c1ce)" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/verify/QRHGY9Z1O4F8" target="_blank">
 <img src="assets/logos/universityoflondon.png" width="150">
 </a>
 <br>
