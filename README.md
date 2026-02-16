@@ -76,13 +76,9 @@ Brief description of the project.
 
 <p align="left">
 
-<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/6832~1/-F719~1.PDF">
+<a href="[file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/6832~1/-F719~1.PDF](https://www.coursera.org/account/accomplishments/professional-cert/6JZI33OD4O6U)">
   <img src="assets/logos/google.png" height="45" alt="Google"/>
 </a>
-
-
-
-
 <a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/E4BC~1/283202~1.PDF">
   <img src="assets/logos/microsoft.png" height="45" alt="Microsoft"/>
 </a>
