@@ -77,7 +77,7 @@ Brief description of the project.
 <div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
 
 <div align="center">
-<a href="https://coursera.org/share/f8186ed69c30ae4080456fd647724553)" target="_blank">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/6JZI33OD4O6U" target="_blank">
 <img src="assets/logos/google.png" width="80">
 </a>
 <br>
