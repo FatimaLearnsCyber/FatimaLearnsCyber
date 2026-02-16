@@ -74,44 +74,98 @@ Brief description of the project.
 
 ## Certifications
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
 
-<a href="[file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/6832~1/-F719~1.PDF](https://www.coursera.org/account/accomplishments/professional-cert/6JZI33OD4O6U)">
-  <img src="assets/logos/google.png" height="45" alt="Google"/>
+<div align="center">
+<a href="PASTE_PUBLIC_CERT_LINK_HERE" target="_blank">
+<img src="assets/logos/google.png" width="80">
 </a>
-<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/E4BC~1/283202~1.PDF">
-  <img src="assets/logos/microsoft.png" height="45" alt="Microsoft"/>
+<br>
+Google Cybersecurity Professional Certificate
+</div>
+
+<div align="center">
+<a href="PASTE_PUBLIC_CERT_LINK_HERE" target="_blank">
+<img src="assets/logos/google.png" width="80">
 </a>
+<br>
+Google IT Support Professional Certificate
+</div>
 
-
-
-
-
-<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/4211~1/234202~1.PDF">
-  <img src="assets/logos/ibm.png" height="45" alt="IBM"/>
+<div align="center">
+<a href="PASTE_PUBLIC_CERT_LINK_HERE" target="_blank">
+<img src="assets/logos/googlecloud.png" width="80">
 </a>
+<br>
+Google Cloud Cybersecurity Certificate
+</div>
 
-<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/1575~1/''11A5~1.PDF">
-  <img src="assets/logos/nvidia.png" height="45" alt="NVIDIA"/>
+<div align="center">
+<a href="PASTE_PUBLIC_CERT_LINK_HERE" target="_blank">
+<img src="assets/logos/microsoft.png" width="80">
 </a>
+<br>
+Microsoft Cybersecurity Analyst
+</div>
 
-<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/2C8B~1/''E978~1.PDF">
-  <img src="assets/logos/universityoflondon.png" height="45" alt="University of London"/>
+<div align="center">
+<a href="PASTE_PUBLIC_CERT_LINK_HERE" target="_blank">
+<img src="assets/logos/ibm.png" width="80">
 </a>
+<br>
+IBM Cybersecurity Analyst
+</div>
 
-<a href="Pfile:///C:/Users/Admin/Documents/COMPUTER%20RELATED/CYBERSECURITY/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%84%F0%9D%90%95%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%20%F0%9D%90%82%F0%9D%90%84%F0%9D%90%91%F0%9D%90%93%F0%9D%90%88%F0%9D%90%85%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20-%F0%9D%90%93%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%92%F0%9D%90%93%F0%9D%90%91%F0%9D%90%80-%20%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%2017.5.25.pdf">
-  <img src="assets/logos/telstra.png" height="45" alt="Telstra"/>
+<div align="center">
+<a href="PASTE_PUBLIC_CERT_LINK_HERE" target="_blank">
+<img src="assets/logos/nvidia.png" width="80">
 </a>
+<br>
+NVIDIA Cybersecurity
+</div>
 
-<a href="file:///C:/Users/Admin/Documents/COMPUTER%20RELATED/CYBERSECURITY/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%84%F0%9D%90%95%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%20%F0%9D%90%82%F0%9D%90%84%F0%9D%90%91%F0%9D%90%93%F0%9D%90%88%F0%9D%90%85%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20-%F0%9D%90%93%F0%9D%90%80%F0%9D%90%93%F0%9D%90%80-%20%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%2019.5.25.pdf">
-  <img src="assets/logos/tata.png" height="45" alt="Tata"/>
+<div align="center">
+<a href="PASTE_PUBLIC_CERT_LINK_HERE" target="_blank">
+<img src="assets/logos/universityoflondon.png" width="80">
 </a>
+<br>
+University of London Cybersecurity
+</div>
 
-<a href="file:///C:/Users/Admin/Documents/COMPUTER%20RELATED/CYBERSECURITY/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%84%F0%9D%90%95%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%20%F0%9D%90%82%F0%9D%90%84%F0%9D%90%91%F0%9D%90%93%F0%9D%90%88%F0%9D%90%85%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20-%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91%F0%9D%90%82%F0%9D%90%80%F0%9D%90%91%F0%9D%90%83-%20%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%2016.5.2025.pdf">
-  <img src="assets/logos/mastercard.png" height="45" alt="Mastercard"/>
+</div>
+
+---
+
+## Forage Job Simulations
+
+<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center;">
+
+<div align="center">
+<a href="PASTE_PUBLIC_LINK_HERE" target="_blank">
+<img src="assets/logos/telstra.png" width="80">
 </a>
+<br>
+Telstra Cybersecurity Job Simulation
+</div>
 
-</p>
+<div align="center">
+<a href="PASTE_PUBLIC_LINK_HERE" target="_blank">
+<img src="assets/logos/tata.png" width="80">
+</a>
+<br>
+Tata Cybersecurity Analyst Simulation
+</div>
+
+<div align="center">
+<a href="PASTE_PUBLIC_LINK_HERE" target="_blank">
+<img src="assets/logos/mastercard.png" width="80">
+</a>
+<br>
+Mastercard Cybersecurity Simulation
+</div>
+
+</div>
+
 ---
 
 ## Current Development Focus
