@@ -74,12 +74,48 @@ Brief description of the project.
 
 ## Certifications
 
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
-[![Microsoft Cybersecurity Analyst](https://img.shields.io/badge/Microsoft-Cybersecurity%20Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
-[![IBM Cybersecurity Analyst](https://img.shields.io/badge/IBM-Cybersecurity%20Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
-[![Google Cloud Cybersecurity](https://img.shields.io/badge/Google%20Cloud-Cybersecurity-1A73E8?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
-[![Infosec Python](https://img.shields.io/badge/Infosec-Python%20for%20Cybersecurity-000000?style=for-the-badge)](#)
+<p align="left">
 
+<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/6832~1/-F719~1.PDF">
+  <img src="assets/logos/google.png" height="45" alt="Google"/>
+</a>
+
+
+
+
+<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/E4BC~1/283202~1.PDF">
+  <img src="assets/logos/microsoft.png" height="45" alt="Microsoft"/>
+</a>
+
+
+
+
+
+<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/4211~1/234202~1.PDF">
+  <img src="assets/logos/ibm.png" height="45" alt="IBM"/>
+</a>
+
+<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/1575~1/''11A5~1.PDF">
+  <img src="assets/logos/nvidia.png" height="45" alt="NVIDIA"/>
+</a>
+
+<a href="file:///C:/Users/Admin/Documents/COMPUT~1/CYBERS~1/5E6A~1/2C8B~1/''E978~1.PDF">
+  <img src="assets/logos/university_london.png" height="45" alt="University of London"/>
+</a>
+
+<a href="Pfile:///C:/Users/Admin/Documents/COMPUTER%20RELATED/CYBERSECURITY/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%84%F0%9D%90%95%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%20%F0%9D%90%82%F0%9D%90%84%F0%9D%90%91%F0%9D%90%93%F0%9D%90%88%F0%9D%90%85%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20-%F0%9D%90%93%F0%9D%90%84%F0%9D%90%8B%F0%9D%90%92%F0%9D%90%93%F0%9D%90%91%F0%9D%90%80-%20%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%2017.5.25.pdf">
+  <img src="assets/logos/telstra.png" height="45" alt="Telstra"/>
+</a>
+
+<a href="file:///C:/Users/Admin/Documents/COMPUTER%20RELATED/CYBERSECURITY/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%84%F0%9D%90%95%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%20%F0%9D%90%82%F0%9D%90%84%F0%9D%90%91%F0%9D%90%93%F0%9D%90%88%F0%9D%90%85%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20-%F0%9D%90%93%F0%9D%90%80%F0%9D%90%93%F0%9D%90%80-%20%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%2019.5.25.pdf">
+  <img src="assets/logos/tata.png" height="45" alt="Tata"/>
+</a>
+
+<a href="file:///C:/Users/Admin/Documents/COMPUTER%20RELATED/CYBERSECURITY/%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%84%F0%9D%90%95%F0%9D%90%84%F0%9D%90%8C%F0%9D%90%84%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%20%F0%9D%90%82%F0%9D%90%84%F0%9D%90%91%F0%9D%90%93%F0%9D%90%88%F0%9D%90%85%F0%9D%90%88%F0%9D%90%82%F0%9D%90%80%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92/%F0%9D%90%85%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%80%F0%9D%90%86%F0%9D%90%84%20-%F0%9D%90%8C%F0%9D%90%80%F0%9D%90%92%F0%9D%90%93%F0%9D%90%84%F0%9D%90%91%F0%9D%90%82%F0%9D%90%80%F0%9D%90%91%F0%9D%90%83-%20%F0%9D%90%82%F0%9D%90%98%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91%F0%9D%90%92%F0%9D%90%84%F0%9D%90%82%F0%9D%90%94%F0%9D%90%91%F0%9D%90%88%F0%9D%90%93%F0%9D%90%98%20%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%81%20%F0%9D%90%92%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%94%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%2016.5.2025.pdf">
+  <img src="assets/logos/mastercard.png" height="45" alt="Mastercard"/>
+</a>
+
+</p>
 ---
 
 ## Current Development Focus
