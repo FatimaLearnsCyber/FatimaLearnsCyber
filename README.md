@@ -47,15 +47,9 @@ My work centers on building hands-on lab environments to simulate security event
 ## Selected Work
 
 ### Project 01 - Metasploit Attack Simulation & Endpoint Detection Lab
-End-to-end attack lifecycle simulation using Kali Linux and Windows 11, followed by Sysmon telemetry ingestion and detection analysis in Splunk.
+Simulated reverse shell attack against a Windows 11 endpoint, followed by telemetry analysis using Sysmon and Splunk to investigate process execution and network activity.
 
-**Focus Areas:**
-- Reverse TCP payload generation (msfvenom)
-- Meterpreter session handling
-- Network enumeration (Nmap)
-- Endpoint telemetry collection (Sysmon)
-- SIEM ingestion & investigation (Splunk)
-- MITRE ATT&CK mapping
+Technologies: Virtual Box, Windows 11, Kali Linux, Metasploit, Nmap, Sysmon, Splunk, RDP
 
 View Project Repository: https://github.com/FatimaLearnsCyber/Kali-Windows-Metasploit-Detection-Lab
 
