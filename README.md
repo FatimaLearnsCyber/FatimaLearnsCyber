@@ -53,8 +53,12 @@ Simulated reverse shell attack against a Windows 11 endpoint, followed by teleme
 
 **View Project Repository:** https://github.com/FatimaLearnsCyber/Kali-Windows-Metasploit-Detection-Lab
 
-### [Project 02 – Title Placeholder]
-Brief description of the project.
+### Project 02 – End-to-End SOC Automation & IOC Enrichment Framework
+Built a fully automated SOC pipeline integrating Wazuh, Shuffle SOAR, VirusTotal, and TheHive to detect malicious activity, enrich indicators, create investigation cases, and notify analysts through structured workflow orchestration.
+
+**Technologies:** Windows 11, Ubuntu Server, Wazuh, Shuffle, VirusTotal API, TheHive, Elasticsearch, Cassandra  
+
+**View Project Repository:** https://github.com/FatimaLearnsCyber/End-to-End-SOC-Automation-IOC-Enrichment-Framework
 
 ### [Project 03 – Title Placeholder]
 Brief description of the project.
