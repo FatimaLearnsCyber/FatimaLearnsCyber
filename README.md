@@ -53,6 +53,8 @@ Simulated reverse shell attack against a Windows 11 endpoint, followed by teleme
 
 **View Project Repository:** https://github.com/FatimaLearnsCyber/Kali-Windows-Metasploit-Detection-Lab
 
+---
+
 ### Project 02 – End-to-End SOC Automation & IOC Enrichment Framework
 Built a fully automated SOC pipeline integrating Wazuh, Shuffle SOAR, VirusTotal, and TheHive to detect malicious activity, enrich indicators, create investigation cases, and notify analysts through structured workflow orchestration.
 
@@ -60,8 +62,16 @@ Built a fully automated SOC pipeline integrating Wazuh, Shuffle SOAR, VirusTotal
 
 **View Project Repository:** https://github.com/FatimaLearnsCyber/End-to-End-SOC-Automation-IOC-Enrichment-Framework
 
-### [Project 03 – Title Placeholder]
-Brief description of the project.
+---
+
+### Project 03 – Active Directory Attack Detection Threat Telemetry Lab
+Simulated a realistic enterprise Active Directory environment where an attacker performs brute-force login attempts against domain users. The attack is detected using endpoint telemetry collected via Sysmon and analyzed in Splunk.
+
+**Technologies:** Windows Server 2022, Active Directory, Splunk SIEM (Ubuntu), Sysmon, Kali Linux, Hydra, Atomic Red Team  
+
+**View Project Repository:** https://github.com/FatimaLearnsCyber/Active-Directory-Attack-Detection-Threat-Telemetry-Lab
+
+---
 
 ### [Project 04 – Title Placeholder]
 Brief description of the project.
